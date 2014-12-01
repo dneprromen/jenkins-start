@@ -1,2 +1,4 @@
 #!/usr/bin/env python 
-print("hello world")
+print("before test")
+assert False
+print("after test")
